@@ -1,13 +1,13 @@
-# Ceci est le site codeurdejeux.com
+# Ceci est le site ethical-hacking-resources.com
 
-    $ git clone https://github.com/nazimboudeffa/codeurdejeux.git
+    $ git clone https://github.com/nazimboudeffa/ethical-hacking-resources.git
     $ cd codeurdejeux
     $ npm i
     $ node app.js
 
-# A propos du livre : Livre de Recettes PhaserJS
+# A propos du livre : Shadow in the Cloud
 
-Ceci est le générateur codeurdejeux.com afin d'écrire le Livre de Recettes PhaserJS
+Ceci est le générateur ethical-hacking-resources.com afin d'écrire le Livre Shadow in the Cloud
 
 # Assets
 
