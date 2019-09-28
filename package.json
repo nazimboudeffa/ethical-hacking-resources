@@ -1,0 +1,30 @@
+{
+  "name": "ethical-hacking-resources",
+  "version": "1.0.0",
+  "description": "Ethical Hacking Resources Site",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "node ./devs/app.js"
+  },
+  "dependencies": {
+    "ejs": "^2.7.1",
+    "express": "^4.17.1",
+    "showdown": "^1.9.0"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nazimboudeffa/ethical-hacking-resources.git"
+  },
+  "keywords": [
+    "ethical",
+    "hacking"
+  ],
+  "author": "Nazim Boudeffa",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nazimboudeffa/ethical-hacking-resources/issues"
+  },
+  "homepage": "https://github.com/nazimboudeffa/ethical-hacking-resources#readme"
+}
