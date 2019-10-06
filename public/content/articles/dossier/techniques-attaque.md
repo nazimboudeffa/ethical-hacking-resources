@@ -26,6 +26,6 @@ C'est une attaque qui consiste à récupérer les cookies laissés par des sites
 
 ## Conclusion
 
-Il existe plus d'attaques comme le phishing, ARP poisoning ou encore le sniffing mais nous aurons vu les plus  courrantes
+Il existe d'autres attaques comme le phishing, ARP poisoning ou encore le sniffing mais dans cet article nous aurons vu les plus  courrantes
 
 [SOURCE] Pirate Informatique Numéro 40
