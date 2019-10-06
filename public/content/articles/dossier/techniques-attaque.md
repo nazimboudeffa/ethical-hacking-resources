@@ -4,7 +4,7 @@ Souvent quand on se lance dans la sécurité informatique on entend parler des h
 
 ### DDoS
 
-Cette attaque qui signifie Distributed Denial of Service, Déni de Service Distribe en Français, souvent utilisée par les groupes Anonymous pour revendiquer le droit des journalistes et des droits de liberté d'expression en général elle consiste à saturer un serveur avec des requêtes
+Cette attaque qui signifie Distributed Denial of Service, Déni de Service Distribué en Français, souvent utilisée par les groupes Anonymous pour revendiquer le droit des journalistes et des droits de liberté d'expression en général elle consiste à saturer un serveur avec des requêtes
 
 ### Buffer Overflow
 
