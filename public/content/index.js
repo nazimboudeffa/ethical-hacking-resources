@@ -12,7 +12,7 @@ module.exports = [
   {
     "category" : "dossier",
     "file" : "techniques-attaque",
-    "banner" : "750x300",
+    "banner" : "black-flag-750x300",
     "title" : "Techniques d'Attaque des Hackers",
     "description" : "Nous allons voir quelques techniques d'attaques",
     "author" : "admin",
