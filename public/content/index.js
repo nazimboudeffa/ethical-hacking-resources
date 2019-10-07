@@ -18,5 +18,15 @@ module.exports = [
     "author" : "admin",
     "tags" : "hacking",
     "date" : "2019-10-06"
+  },
+  {
+    "category" : "dossier",
+    "file" : "sqlinjection",
+    "banner" : "sql-injection-750x300",
+    "title" : "L'injection SQL",
+    "description" : "Nous allons voir la technique d'injection SQL",
+    "author" : "admin",
+    "tags" : "hacking",
+    "date" : "2019-10-07"
   }
 ]
