@@ -2,7 +2,7 @@ module.exports = [
   {
     "category" : "tutorial",
     "file" : "commencer",
-    "banner" : "750x300",
+    "banner" : "nyan",
     "title" : "Bienvenue sur le site Ethical Hacking Resources",
     "description" : "Nous allons voir comment commencer dans le monde des pirates informatiques",
     "author" : "admin",
